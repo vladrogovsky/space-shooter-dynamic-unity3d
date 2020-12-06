@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Laser Defender",
+"dataUrl": "SpacShooterKeyboard.data.unityweb",
+"asmCodeUrl": "SpacShooterKeyboard.asm.code.unityweb",
+"asmMemoryUrl": "SpacShooterKeyboard.asm.memory.unityweb",
+"asmFrameworkUrl": "SpacShooterKeyboard.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
